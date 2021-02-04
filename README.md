@@ -8,6 +8,9 @@ This calculator was built using HTML, CSS, and JavaScript.
 
 Refactoring the code to include more classes and improve CSS.
 
+## Deployed Site
+https://jahallb1.github.io/calculator/
+
 
 
 ## Images
